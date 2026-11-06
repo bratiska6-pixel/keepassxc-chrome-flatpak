@@ -6,6 +6,8 @@
 [![Google Chrome](https://img.shields.io/badge/Google_Chrome-Extension_Bridge-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.google.com/chrome/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
+> 🤖 **Дисклеймер:** Данный проект, архитектура решения, скрипты автоматизации и документация разработаны и сформированы с помощью искусственного интеллекта (AI Assistant).
+
 > **Надежное, автоматизированное и безопасное решение для интеграции менеджера паролей KeePassXC с браузером Google Chrome, когда оба приложения установлены в изолированных песочницах Flatpak.**
 
 ---
